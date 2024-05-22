@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Nhớ để ý ny của be nh vào🤞😊.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100026987723953&mibextid=ZbWKwL' 
+    messLink: 'https://andyngojs.github.io/crush-love/' 
 }
